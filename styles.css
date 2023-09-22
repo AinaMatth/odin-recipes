@@ -1,11 +1,12 @@
 body{
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(202, 73, 13);
 }
 h1{
     text-align: center;
     background-color: lightcoral;
-    color: white;
+    color: rgb(250, 241, 241);
 }
 ul{
     list-style: none;

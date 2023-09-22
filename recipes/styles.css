@@ -1,9 +1,19 @@
 body{
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(202, 73, 13);
 }
 h1{
     text-align: center;
     background-color: lightcoral;
     color: white;
+}
+a{
+    text-align: center;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: bisque;
+}
+a:hover{
+    color: rgb(238, 157, 58);
 }
